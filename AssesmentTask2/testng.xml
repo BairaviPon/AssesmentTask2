@@ -4,5 +4,10 @@
 <parameter name="Username" value="pbtinygames@gmail.com"></parameter>
 <parameter name="Password" value="Assesment@Full"></parameter>
   <test thread-count="5" name="Test">
+    <classes>
+      <class>
+        
+      </class>
+      </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
